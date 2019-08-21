@@ -1,4 +1,4 @@
-Shows the pathname of react-router via redux (using connected-react-router).
+Shows the pathname of react-router via redux (using connected-react-router)
 
 Dynamically load a component
 
