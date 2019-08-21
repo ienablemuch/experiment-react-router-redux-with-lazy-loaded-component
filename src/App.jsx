@@ -13,7 +13,7 @@ const About = lazy(() =>
 
 function App({ pathname, search, hash }) {
     return (
-        <div classNgame="App">
+        <div className="App">
             <table>
                 <tbody>
                     <tr>
